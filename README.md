@@ -1,7 +1,9 @@
-# mark423
-마드다운
-워드파일 한글 글자
-
+# 마크다운
 내용내용
-1. 내요
-2. 내용
+----
+디테일
+* 내용1
+* 내용2
+* 내용3
+
+![image](https://github.com/courseof/mark423/assets/55344527/a16df96d-afe5-473b-838b-aafc141f0173)
